@@ -39,3 +39,7 @@ It should be the same non-root user/group as which you'll be calling `tox`.
 * we'll be working on making more of the testfiles be generated during the
   tests but (again) due to the special aspects required, it is not as easy as
   it could seem.
+
+## rdiffweb-testcases.tar
+
+This file has been copied from https://gitlab.com/ikus-soft/rdiffweb/-/tree/master/rdiffweb/tests
